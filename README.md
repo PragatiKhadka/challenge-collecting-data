@@ -4,8 +4,8 @@ The project is based on web scraping in Python. The final output of the project 
 The webpage chosen for scraping is : https://www.immoweb.be  
 
 The project consists of two main files:  
-1. scraping.py: This file contains the functionality of scraping data from the immo webpage
-2. get_links.py: This file contains the functionality to get all the links inside the immo webpage
+1. scraping.py: This file contains the functionality of scraping data from the immo webpage. The result of the program is the `housing_data_100_clean` file.  `housing_data_100.csv` file is the file after scraping without the cleaning.  
+2. get_links.py: This file contains the functionality to get all the links inside the immo webpage. The result of this program is the `all_links.txt` file which contains all the links from the website.
 
 Technical difficulties:
 1. Extracting the address: Through the html tags, the address information was difficult to extract. So, it is extracted from the javascript tags.  
