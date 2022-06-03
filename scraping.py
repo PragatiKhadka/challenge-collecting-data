@@ -12,7 +12,6 @@ def attr_from_table(table, attrs, attr_dict):
     This function will extract only the attributes provided as input to it.
     It returns a dictionary with header and it's corresponding value.
     """
-    print("attr_from_table")
     for row in table:
         for attr in attrs:
             if row.find("th").contents[0].strip() == attr:
@@ -28,7 +27,6 @@ def get_attr_table(soup):
     namely General and Interior tables.
     It will also call other function which will actually extract the data.
     """
-    print("get_attr_table")
     add_attr = {}
     tables = soup.find_all("tbody")
     general_table = tables[0].find_all("tr")
@@ -57,7 +55,6 @@ def get_data_script(url):
     and finally written to a csv file.
     
     """
-    print("get_data_script")
     headers = {
     'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36',
     'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,/;q=0.8',
@@ -67,9 +64,7 @@ def get_data_script(url):
     'Connection': 'keep-alive',
      }
     response = requests.get(url, headers=headers)
-    print("test1")
     soup = BeautifulSoup(response.content, 'html.parser')
-    print("test2")
     script_text = soup.find("script", text=re.compile("window.dataLayer")).text.split("= ", 1)[1]
     
     #extract only the required text from the javascript and convert to json
@@ -78,7 +73,6 @@ def get_data_script(url):
     data_frm_table = get_attr_table(soup) # get some attribute values from the tables in the page
     con_data = data | data_frm_table      # combine two dictionaries to get all info in one dictionary
     con_data['url'] = url                 # add url in the dictionary
-    print("end of scrape")
 
     return con_data 
 
@@ -96,11 +90,8 @@ def scrape_data():
     file = 'all_links.txt'
     n = 10000
     urls = read_file(file, n)
-    count = 0
 
     for url in urls:
-        count += 1
-        print("counter: ", count)
         info = get_data_script(url)       
         info_dict.append(info)
 
@@ -131,6 +122,8 @@ def data_cleaning():
        'is_newly_built', 'number_of_facade', 'living_area(m²)', 'is_furnished', 
        'kitchen_type','bedroom_count', 'land_surface(m²)', 'outdoor_garden_surface(m²)',
        'has_terrace', 'has_swimmingpool', 'has_basement', 'url']] 
+
+    df.to_csv('housing_data_100_clean')   
                      
 def main():
     """
@@ -146,7 +139,7 @@ def main():
     #clean the data
     data_cleaning()
 
-    
+
 if __name__ == "__main__":
     start_time = time.time()
     main()
