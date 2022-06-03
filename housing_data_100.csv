@@ -1,0 +1,201 @@
+id,type,subtype,price,transactionType,zip,visualisationOption,atticExists,basementExists,kitchen_type,building_constructionYear,building_condition,energy_heatingType,certificates_primaryEnergyConsumptionLevel,bedroom_count,land_surface,outdoor_garden_surface,outdoor_terrace_exists,specificities_SME_office_exists,wellnessEquipment_hasSwimmingPool,parking_parkingSpaceCount_indoor,parking_parkingSpaceCount_outdoor,condition_isNewlyBuilt,Number_of_frontages,Living_area,Furnished,url
+1838035,apartment,flat studio,52934,for sale,07218,m,,,usa installed,2008,,,,1,,,true,,true,,,false,4,50,Yes,"https://www.immoweb.be/en/classified/apartment/for-sale/borovets/07218/1838035
+"
+1838036,apartment,apartment,51000,for sale,08240,m,,,installed,2008,,,,1,,,true,,true,,,false,4,50,Yes,"https://www.immoweb.be/en/classified/apartment/for-sale/sunny-beach/08240/1838036
+"
+1838641,apartment,apartment,73000,for sale,08250,m,,,,2008,as new,,,1,,,,,,,,false,,,,"https://www.immoweb.be/en/classified/apartment/for-sale/obzor/08250/1838641
+"
+1838642,apartment,apartment,69000,for sale,08224,m,,,,2008,good,,,1,,,,,,,,false,,,,"https://www.immoweb.be/en/classified/apartment/for-sale/kosharitsa/08224/1838642
+"
+1839112,apartment,apartment,57000,for sale,08240,m,,,installed,2008,as new,,,1,,,true,,true,,,false,4,,,"https://www.immoweb.be/en/classified/apartment/for-sale/sunny-beach/08240/1839112
+"
+1839193,apartment,apartment,93218,for sale,09101,m,,,installed,2008,as new,,,1,,,,,,,,false,,,,"https://www.immoweb.be/en/classified/apartment/for-sale/byala/09101/1839193
+"
+1840625,apartment,apartment,285000,for sale,09600,m,,,installed,2008,good,,,3,,,true,,,,,false,4,,Yes,"https://www.immoweb.be/en/classified/apartment/for-sale/balchik/09600/1840625
+"
+1840646,house,villa,285000,for sale,09600,m,,,installed,2008,good,,,3,0,,,true,,,,false,4,,Yes,"https://www.immoweb.be/en/classified/house/for-sale/balchik/09600/1840646
+"
+1840818,house,exceptional property,73000,for sale,08250,m,,,,2008,good,,,1,0,,,,,,,false,,,,"https://www.immoweb.be/en/classified/house/for-sale/obzor/08250/1840818
+"
+1882546,house,house,97410,for sale,8420,m,,,usa installed,2016,as new,gas,,2,155,110,true,,,,2,false,4,45,No,"https://www.immoweb.be/en/classified/house/for-sale/wenduine/8420/1882546
+"
+2070520,house,villa,no price,for sale,2950,l,,,,2009,good,gas,,4,2400,,,true,,2,,false,4,650,No,"https://www.immoweb.be/en/classified/house/for-sale/kapellen/2950/2070520
+"
+2083530,house,villa,725000,for sale,03042,xl,,true,,1990,,,,7,2129,,true,,true,2,,false,,,No,"https://www.immoweb.be/en/classified/house/for-sale/atina/03042/2083530
+"
+2335739,apartment,apartment,184000,for sale,5000,m,,true,installed,,good,gas,,2,,,,,,,,false,2,86,No,"https://www.immoweb.be/en/classified/apartment/for-sale/namur/5000/2335739
+"
+2573581,apartment,flat studio,no price,for sale,2440,l,,,,2010,,,,0,,,,,,,,false,,,Yes,"https://www.immoweb.be/en/classified/apartment/for-sale/geel/2440/2573581
+"
+2573644,apartment,apartment,no price,for sale,3980,l,,,,2009,,,,2,,,,true,,1,,false,,111,,"https://www.immoweb.be/en/classified/apartment/for-sale/tessenderlo/3980/2573644
+"
+2784938,house,house,101900,for sale,8301,m,,,installed,2018,as new,gas,,2,170,120,true,,,,2,false,4,51,No,"https://www.immoweb.be/en/classified/house/for-sale/heist-aan-zee/8301/2784938
+"
+3303247,house,villa,no price,for sale,2970,l,,,,2012,,,,5,2532,,true,true,,2,4,false,4,620,No,"https://www.immoweb.be/en/classified/house/for-sale/s-gravenwezel/2970/3303247
+"
+3613518,apartment,flat studio,no price,for sale,8301,m,,,hyper equipped,,as new,gas,131,0,,,,,,,,false,1,35,Yes,"https://www.immoweb.be/en/classified/apartment/for-sale/heist-aan-zee/8301/3613518
+"
+3622649,house,house,no price,for sale,8770,m,,true,,,as new,,596,4,492,,true,,,2,,false,,306,Yes,"https://www.immoweb.be/en/classified/house/for-sale/ingelmunster/8770/3622649
+"
+3779703,house,villa,no price,for sale,1700,m,,,installed,1994,as new,gas,202,5,1460,,true,true,,1,2,false,4,290,,"https://www.immoweb.be/en/classified/house/for-sale/st-ulriks-kapelle/1700/3779703
+"
+3829592,apartment,ground floor,no price,for sale,1030,m,,,usa hyper equipped,,just renovated,,331,3,,70,,,,,,false,,150,No,"https://www.immoweb.be/en/classified/apartment/for-sale/schaerbeek/1030/3829592
+"
+3841346,apartment,apartment,no price,for sale,8300,m,,true,,2016,good,,,3,,,true,,,,,false,2,100,No,"https://www.immoweb.be/en/classified/apartment/for-sale/knokke/8300/3841346
+"
+3841347,apartment,apartment,no price,for sale,8300,m,,,,2014,good,,,3,,,true,,,,,false,2,135,No,"https://www.immoweb.be/en/classified/apartment/for-sale/knokke/8300/3841347
+"
+3880650,apartment,apartment,302950,for sale,9450,xl,,,,,,,,3,,,,,,,,false,2,142,No,"https://www.immoweb.be/en/classified/apartment/for-sale/haaltert/9450/3880650
+"
+3903180,house,villa,no price,for sale,2900,l,,,,2007,good,gas,,4,2000,,,,,2,4,false,4,480,No,"https://www.immoweb.be/en/classified/house/for-sale/schoten/2900/3903180
+"
+3947116,house,villa,no price,for sale,2900,l,,true,installed,1975,good,,337,5,2622,2622,,true,,2,2,false,4,430,No,"https://www.immoweb.be/en/classified/house/for-sale/schoten-koningshof/2900/3947116
+"
+3956676,house,house,no price,for sale,8770,m,,true,,,,,402,3,723,,true,,,1,,false,,165,,"https://www.immoweb.be/en/classified/house/for-sale/ingelmunster/8770/3956676
+"
+4054828,apartment,apartment,365000,for sale,2018,xl,,,,2010,as new,,,2,,,,,true,,,false,,97,,"https://www.immoweb.be/en/classified/apartment/for-sale/antwerp/2018/4054828
+"
+4079236,apartment,apartment,no price,for sale,8400,m,,,,1998,good,,128,2,,,true,,,,,false,,82,No,"https://www.immoweb.be/en/classified/apartment/for-sale/oostende/8400/4079236
+"
+4089845,house,house,no price,for sale,9000,m,,,,,to be done up,,398,2,40,,,,,,,false,,160,,"https://www.immoweb.be/en/classified/house/for-sale/gent/9000/4089845
+"
+4132492,apartment,apartment,210000,for sale,2140,m,,,semi equipped,,to be done up,,250,1,,,,,,,,false,1,,,"https://www.immoweb.be/en/classified/apartment/for-sale/borgerhout/2140/4132492
+"
+4183567,apartment,apartment,no price,for sale,8400,m,,,,,good,,,3,,,true,,,,,false,2,,No,"https://www.immoweb.be/en/classified/apartment/for-sale/oostende/8400/4183567
+"
+4329019,house,villa,no price,for sale,2970,l,,true,,1989,good,,,4,4011,,,true,,1,4,false,,550,No,"https://www.immoweb.be/en/classified/house/for-sale/s-gravenwezel/2970/4329019
+"
+4503569,house,villa,no price,for sale,1740,m,true,true,installed,1988,as new,gas,,4,1239,,true,true,,2,4,false,4,200,,"https://www.immoweb.be/en/classified/house/for-sale/ternat/1740/4503569
+"
+4611027,apartment,duplex,895000,for sale,1060,xl,,,usa hyper equipped,,as new,gas,179,3,,,true,,,,,false,2,200,,"https://www.immoweb.be/en/classified/apartment/for-sale/st-gilles/1060/4611027
+"
+4614118,house,villa,no price,for sale,8020,xl,,,,1981,good,,,4,1163,,true,true,,1,,false,,258,No,"https://www.immoweb.be/en/classified/house/for-sale/ruddervoorde/8020/4614118
+"
+4614119,house,house,no price,for sale,8310,xl,,true,,1965,good,,,5,533,,true,,,1,,false,,210,No,"https://www.immoweb.be/en/classified/house/for-sale/assebroek/8310/4614119
+"
+4645054,house,house,196000,for sale,8550,m,,,,,good,,,3,500,,,,,,,false,3,,,"https://www.immoweb.be/en/classified/house/for-sale/zwevegem/8550/4645054
+"
+4679861,house,house,330000,for sale,8400,m,,,installed,,good,,192,1,65,,true,,,1,,false,,,No,"https://www.immoweb.be/en/classified/house/for-sale/oostende/8400/4679861
+"
+4679862,apartment,flat studio,no price,for sale,8400,m,,true,,,good,,176,0,,,,,,,,false,2,45,No,"https://www.immoweb.be/en/classified/apartment/for-sale/oostende/8400/4679862
+"
+4711417,house,villa,no price,for sale,2970,l,,true,,1998,good,,,6,8208,,true,true,,1,4,false,,717,No,"https://www.immoweb.be/en/classified/house/for-sale/schilde/2970/4711417
+"
+4716758,apartment,apartment,165000,for sale,8400,m,,,,2012,good,,242,1,,,true,,,,,false,2,55,Yes,"https://www.immoweb.be/en/classified/apartment/for-sale/oostende/8400/4716758
+"
+4718207,house,villa,no price,for sale,2900,l,,true,,1905,to renovate,fueloil,,8,33000,,,,,,,false,,750,No,"https://www.immoweb.be/en/classified/house/for-sale/schoten/2900/4718207
+"
+4725060,house,manor house,no price,for sale,8670,xl,,,installed,2013,as new,,,2,201,155,true,,,,1,false,3,80,No,"https://www.immoweb.be/en/classified/house/for-sale/oostduinkerke/8670/4725060
+"
+4725061,house,manor house,no price,for sale,8670,xl,,,installed,2013,as new,,,3,0,,true,,,,1,false,,80,No,"https://www.immoweb.be/en/classified/house/for-sale/oostduinkerke/8670/4725061
+"
+4725062,house,manor house,no price,for sale,8670,xl,,,installed,2013,as new,,,2,0,,true,,,,1,false,,80,No,"https://www.immoweb.be/en/classified/house/for-sale/oostduinkerke/8670/4725062
+"
+4725063,house,manor house,no price,for sale,8670,xl,,,installed,2013,as new,,,3,0,,true,,,,1,false,,80,No,"https://www.immoweb.be/en/classified/house/for-sale/oostduinkerke/8670/4725063
+"
+4725064,house,manor house,no price,for sale,8670,xl,,,installed,2013,as new,,,2,0,,true,,,,1,false,3,80,No,"https://www.immoweb.be/en/classified/house/for-sale/oostduinkerke/8670/4725064
+"
+4725065,house,manor house,no price,for sale,8670,xl,,,installed,2013,as new,,,3,0,,true,,,,1,false,,80,No,"https://www.immoweb.be/en/classified/house/for-sale/oostduinkerke/8670/4725065
+"
+4725066,house,manor house,no price,for sale,8670,xl,,,installed,2013,as new,,,2,0,,true,,,,1,false,,80,No,"https://www.immoweb.be/en/classified/house/for-sale/oostduinkerke/8670/4725066
+"
+4725067,house,manor house,no price,for sale,8670,xl,,,installed,2013,as new,,,2,0,,true,,,,1,false,,80,No,"https://www.immoweb.be/en/classified/house/for-sale/oostduinkerke/8670/4725067
+"
+4725068,house,manor house,no price,for sale,8670,xl,,,installed,2013,as new,,,2,145,99,true,,,,1,false,3,80,No,"https://www.immoweb.be/en/classified/house/for-sale/oostduinkerke/8670/4725068
+"
+4725069,house,manor house,no price,for sale,8670,xl,,,installed,2013,as new,,,2,140,94,true,,,,1,false,,80,No,"https://www.immoweb.be/en/classified/house/for-sale/oostduinkerke/8670/4725069
+"
+4725070,house,manor house,no price,for sale,8670,xl,,,installed,2013,as new,,,2,147,98,true,,,,1,false,,80,No,"https://www.immoweb.be/en/classified/house/for-sale/oostduinkerke/8670/4725070
+"
+4725071,house,manor house,no price,for sale,8670,xl,,,installed,2013,as new,,,2,146,100,true,,,,1,false,,80,No,"https://www.immoweb.be/en/classified/house/for-sale/oostduinkerke/8670/4725071
+"
+4725072,house,manor house,no price,for sale,8670,xl,,,installed,2013,as new,,,2,146,97,true,,,,1,false,,80,No,"https://www.immoweb.be/en/classified/house/for-sale/oostduinkerke/8670/4725072
+"
+4725073,house,manor house,no price,for sale,8670,xl,,,installed,2013,as new,,,2,146,97,true,,,,1,false,,80,No,"https://www.immoweb.be/en/classified/house/for-sale/oostduinkerke/8670/4725073
+"
+4725074,house,manor house,no price,for sale,8670,xl,,,installed,2013,as new,,,2,147,97,true,,,,1,false,,80,No,"https://www.immoweb.be/en/classified/house/for-sale/oostduinkerke/8670/4725074
+"
+4725075,house,manor house,no price,for sale,8670,xl,,,installed,2013,as new,,,3,163,117,true,,,,1,false,,80,No,"https://www.immoweb.be/en/classified/house/for-sale/oostduinkerke/8670/4725075
+"
+4725076,house,manor house,no price,for sale,8670,xl,,,installed,2013,as new,,,3,162,116,true,,,,1,false,,80,No,"https://www.immoweb.be/en/classified/house/for-sale/oostduinkerke/8670/4725076
+"
+4725077,house,manor house,no price,for sale,8670,xl,,,installed,2013,as new,,,2,160,111,true,,,,1,false,,80,No,"https://www.immoweb.be/en/classified/house/for-sale/oostduinkerke/8670/4725077
+"
+4725078,house,manor house,no price,for sale,8670,xl,,,installed,2013,as new,,,3,158,112,true,,,,1,false,3,80,No,"https://www.immoweb.be/en/classified/house/for-sale/oostduinkerke/8670/4725078
+"
+4725079,house,manor house,no price,for sale,8670,xl,,,installed,2013,as new,,,2,156,110,true,,,,1,false,3,80,No,"https://www.immoweb.be/en/classified/house/for-sale/oostduinkerke/8670/4725079
+"
+4725080,house,manor house,no price,for sale,8670,xl,,,installed,2013,as new,,,2,155,109,true,,,,1,false,,80,No,"https://www.immoweb.be/en/classified/house/for-sale/oostduinkerke/8670/4725080
+"
+4725081,house,manor house,no price,for sale,8670,xl,,,installed,2013,as new,,,3,152,106,true,,,,1,false,,80,No,"https://www.immoweb.be/en/classified/house/for-sale/oostduinkerke/8670/4725081
+"
+4725082,house,manor house,no price,for sale,8670,xl,,,installed,2013,as new,,,2,133,87,true,,,,1,false,4,80,No,"https://www.immoweb.be/en/classified/house/for-sale/oostduinkerke/8670/4725082
+"
+4725083,house,manor house,no price,for sale,8670,xl,,,installed,2013,as new,,,2,144,95,true,,,,1,false,,80,No,"https://www.immoweb.be/en/classified/house/for-sale/oostduinkerke/8670/4725083
+"
+4725084,house,manor house,no price,for sale,8670,xl,,,installed,2013,as new,,,3,0,,true,,,,1,false,3,80,No,"https://www.immoweb.be/en/classified/house/for-sale/oostduinkerke/8670/4725084
+"
+4731428,apartment,apartment,365000,for sale,2018,xl,,,,2010,as new,,,2,,,,,true,,,false,,97,,"https://www.immoweb.be/en/classified/apartment/for-sale/antwerp/2018/4731428
+"
+4752209,house,house,no price,for sale,8300,xl,,true,,1978,,,510,2,194,,,,,2,,false,,,No,"https://www.immoweb.be/en/classified/house/for-sale/knokke-heist/8300/4752209
+"
+4817969,house,house,223675,for sale,9450,xl,,,,,,,,3,0,,,,,,,false,,,,"https://www.immoweb.be/en/classified/house/for-sale/haaltert/9450/4817969
+"
+4849669,house,house,no price,for sale,8450,m,,,,,as new,,484,2,187,,true,,,,,false,,70,,"https://www.immoweb.be/en/classified/house/for-sale/bredene/8450/4849669
+"
+4860757,apartment,apartment,no price,for sale,9400,m,,,installed,,,gas,,1,,,true,,,,,false,,79,,"https://www.immoweb.be/en/classified/apartment/for-sale/ninove/9400/4860757
+"
+4860809,apartment,ground floor,no price,for sale,9400,m,,,installed,,,gas,,2,,73,true,,,,,false,,93,,"https://www.immoweb.be/en/classified/apartment/for-sale/haaltert/9400/4860809
+"
+4860810,apartment,ground floor,no price,for sale,9400,m,,,installed,,,gas,,2,,73,true,,,,,false,,93,,"https://www.immoweb.be/en/classified/apartment/for-sale/ninove/9400/4860810
+"
+4860848,apartment,ground floor,no price,for sale,9400,m,,,installed,,,gas,,2,,65,true,,,,,false,,80,,"https://www.immoweb.be/en/classified/apartment/for-sale/ninove/9400/4860848
+"
+4860849,apartment,ground floor,no price,for sale,9400,m,,,installed,,,gas,,2,,65,true,,,,,false,,80,,"https://www.immoweb.be/en/classified/apartment/for-sale/ninove/9400/4860849
+"
+4860898,apartment,ground floor,no price,for sale,9400,m,,,installed,,,gas,,2,,154,true,,,,,false,,96,,"https://www.immoweb.be/en/classified/apartment/for-sale/ninove/9400/4860898
+"
+4863347,apartment,apartment,no price,for sale,9400,m,,,installed,,,gas,,2,,,true,,,,,false,,86,,"https://www.immoweb.be/en/classified/apartment/for-sale/ninove/9400/4863347
+"
+4863351,apartment,apartment,no price,for sale,9400,m,,,installed,,,gas,,2,,,true,,,,,false,,79,,"https://www.immoweb.be/en/classified/apartment/for-sale/ninove/9400/4863351
+"
+4863352,apartment,apartment,no price,for sale,9400,m,,,installed,,,gas,,2,,,true,,,,,false,,79,,"https://www.immoweb.be/en/classified/apartment/for-sale/ninove/9400/4863352
+"
+4863355,apartment,apartment,no price,for sale,9400,m,,,installed,,,gas,,2,,,true,,,,,false,,80,,"https://www.immoweb.be/en/classified/apartment/for-sale/ninove/9400/4863355
+"
+4863356,apartment,apartment,no price,for sale,9400,m,,,installed,,,gas,,2,,,true,,,,,false,,80,,"https://www.immoweb.be/en/classified/apartment/for-sale/ninove/9400/4863356
+"
+4863358,apartment,apartment,no price,for sale,9400,m,,,installed,,,gas,,2,,,true,,,,,false,,87,,"https://www.immoweb.be/en/classified/apartment/for-sale/ninove/9400/4863358
+"
+4863360,apartment,penthouse,no price,for sale,9400,m,,,installed,,,gas,,2,,,true,,,,,false,,94,,"https://www.immoweb.be/en/classified/apartment/for-sale/ninove/9400/4863360
+"
+4863362,apartment,penthouse,no price,for sale,9400,m,,,installed,,,gas,,2,,,true,,,,,false,,94,,"https://www.immoweb.be/en/classified/apartment/for-sale/ninove/9400/4863362
+"
+4863368,apartment,penthouse,no price,for sale,9400,m,,,installed,,,gas,,2,,,true,,,,,false,,76,,"https://www.immoweb.be/en/classified/apartment/for-sale/ninove/9400/4863368
+"
+4907245,house,house,no price,for sale,9620,m,,,,,,,,3,29714,,,,,,,false,,,,"https://www.immoweb.be/en/classified/house/for-sale/velzeke-ruddershove/9620/4907245
+"
+4936836,house,house,no price,for sale,8377,xl,,,,2014,,,,3,364,,true,,,1,,false,,192,No,"https://www.immoweb.be/en/classified/house/for-sale/meetkerke/8377/4936836
+"
+4944259,house,mansion,2750000,for sale,1180,m,,true,hyper equipped,1900,,,487,7,2600,,,true,,,,false,4,500,,"https://www.immoweb.be/en/classified/house/for-sale/uccle/1180/4944259
+"
+4987867,house,house,no price,for sale,8770,m,,true,,1950,to be done up,,280,3,0,,true,,,,,false,,,,"https://www.immoweb.be/en/classified/house/for-sale/ingelmunster/8770/4987867
+"
+5002360,apartment,ground floor,no price,for sale,9400,m,,true,installed,,,gas,,2,,71,true,,,,,false,,107,,"https://www.immoweb.be/en/classified/apartment/for-sale/denderwindeke/9400/5002360
+"
+5002361,apartment,ground floor,no price,for sale,9400,m,,true,installed,,,gas,,2,,73,true,,,,,false,,104,,"https://www.immoweb.be/en/classified/apartment/for-sale/ninove/9400/5002361
+"
+5002362,apartment,ground floor,no price,for sale,9400,m,,true,installed,,,gas,,2,,71,true,,,,,false,,107,,"https://www.immoweb.be/en/classified/apartment/for-sale/ninove/9400/5002362
+"
+5002363,apartment,ground floor,no price,for sale,9400,m,,true,installed,,,gas,,2,,73,true,,,,,false,,104,,"https://www.immoweb.be/en/classified/apartment/for-sale/ninove/9400/5002363
+"
+5002415,apartment,apartment,no price,for sale,9400,m,,true,installed,,,gas,,2,,,true,,,,,false,,92,,"https://www.immoweb.be/en/classified/apartment/for-sale/denderwindeke/9400/5002415
+"
+5002416,apartment,apartment,no price,for sale,9400,m,,true,installed,,,gas,,2,,,true,,,,,false,,89,,"https://www.immoweb.be/en/classified/apartment/for-sale/denderwindeke/9400/5002416
+"
+5002417,apartment,apartment,no price,for sale,9400,m,,true,,,,gas,,2,,,true,,,,,false,,92,,"https://www.immoweb.be/en/classified/apartment/for-sale/ninove/9400/5002417
+"
+5002418,apartment,apartment,no price,for sale,9400,m,,true,,,,gas,,2,,,true,,,,,false,,89,,"https://www.immoweb.be/en/classified/apartment/for-sale/denderwindeke/9400/5002418
+"
+5002447,apartment,apartment,no price,for sale,9400,m,,true,installed,,,gas,,2,,,true,,,,,false,,92,,"https://www.immoweb.be/en/classified/apartment/for-sale/denderwindeke/9400/5002447
+"
